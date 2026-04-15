@@ -1,0 +1,16 @@
+.env
+venv/
+__pycache__/
+*.pyc
+data/newzyx.db
+data/newzyx.db-wal
+data/newzyx.db-shm
+data/script.txt
+website/episodes/
+website/index.html
+website/today.mp3
+website/feed.xml
+logs/
+.DS_Store
+.idea/
+.vscode/

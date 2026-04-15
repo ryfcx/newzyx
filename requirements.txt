@@ -1,0 +1,8 @@
+beautifulsoup4
+boto3
+elevenlabs
+ftfy
+lxml
+mutagen
+openai
+requests
